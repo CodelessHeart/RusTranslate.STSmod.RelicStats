@@ -1,0 +1,514 @@
+{
+  "STATS:HEADER": {
+    "TEXT": [
+      "Статистика"
+    ]
+  },
+  "STATS:EXTENDED": {
+    "TEXT": [
+      " NL За xод: ",
+      " NL За битву: ",
+      "Этаж на котором полученна реликвия: "
+    ]
+  },
+  "STATS:OPTION": {
+    "TEXT": [
+      "Включить статистику 'За xод, За битву' для боевыx реликвий",
+      "Включить интеграция с модом Slay the Relics",
+      "Отожбажать этаж на котором полученна реликвия."
+    ]
+  },
+  "STATS:Snecko Eye": {
+    "TEXT": [
+      "Сколько карт с энергией: NL 0 Энергий: ",
+      " NL 1 Энергия: ",
+      " NL 2 Энергии: ",
+      " NL 3 Энергии: "
+    ]
+  },
+  "STATS:CeramicFish": {
+    "TEXT": [
+      "Золота получено: "
+    ]
+  },
+  "STATS:MawBank": {
+    "TEXT": [
+      "Золота получено: "
+    ]
+  },
+  "STATS:Toy Ornithopter": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:Burning Blood": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:Eternal Feather": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:MealTicket": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:SsserpentHead": {
+    "TEXT": [
+      "Золота получено: "
+    ]
+  },
+  "STATS:Golden Idol": {
+    "TEXT": [
+      "Доп Золота полученно: "
+    ]
+  },
+  "STATS:Bloody Idol": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:FaceOfCleric": {
+    "TEXT": [
+      "Макс XП полученно: "
+    ]
+  },
+  "STATS:Black Star": {
+    "TEXT": [
+      "Доп реликвий полученно: "
+    ]
+  },
+  "STATS:Blood Vial": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:Juzu Bracelet": {
+    "TEXT": [
+      "Боёв предотвращенно: "
+    ]
+  },
+  "STATS:Ectoplasm": {
+    "TEXT": [
+      "Золота потерянно: "
+    ]
+  },
+  "STATS:Sozu": {
+    "TEXT": [
+      "Зелий потерянно: "
+    ]
+  },
+  "STATS:Boot": {
+    "TEXT": [
+      "Урона прибавленно: "
+    ]
+  },
+  "STATS:PreservedInsect": {
+    "TEXT": [
+      "HP removed: "
+    ]
+  },
+  "STATS:Meat on the Bone": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:Pantograph": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:Torii": {
+    "TEXT": [
+      "Урона предотвращенно: "
+    ]
+  },
+  "STATS:TungstenRod": {
+    "TEXT": [
+      "Урона предотвращенно: "
+    ]
+  },
+  "STATS:Mercury Hourglass": {
+    "TEXT": [
+      "Урона нанесенно: "
+    ]
+  },
+  "STATS:StoneCalendar": {
+    "TEXT": [
+      "Урона нанесенно: "
+    ]
+  },
+  "STATS:Darkstone Periapt": {
+    "TEXT": [
+      "Макс XП полученно: "
+    ]
+  },
+  "STATS:Singing Bowl": {
+    "TEXT": [
+      "Макс XП полученно: "
+    ]
+  },
+  "STATS:Shuriken": {
+    "TEXT": [
+      "Силы полученно: "
+    ]
+  },
+  "STATS:Kunai": {
+    "TEXT": [
+      "Ловкости полученно: "
+    ]
+  },
+  "STATS:Ornamental Fan": {
+    "TEXT": [
+      "Защиты полученно: "
+    ]
+  },
+  "STATS:Mark of the Bloom": {
+    "TEXT": [
+      "Лечения предотващенно: "
+    ]
+  },
+  "STATS:Art of War": {
+    "TEXT": [
+      "Энергии полученно: "
+    ]
+  },
+  "STATS:Nunchaku": {
+    "TEXT": [
+      "Энергии полученно: "
+    ]
+  },
+  "STATS:Snake Skull": {
+    "TEXT": [
+      "Яда наложенно: "
+    ]
+  },
+  "STATS:Letter Opener": {
+    "TEXT": [
+      "Урона нанесенно: "
+    ]
+  },
+  "STATS:Sundial": {
+    "TEXT": [
+      "Энергии полученно: "
+    ]
+  },
+  "STATS:Charon's Ashes": {
+    "TEXT": [
+      "Урона нанесенно: "
+    ]
+  },
+  "STATS:CloakClasp": {
+    "TEXT": [
+      "Защиты полученно: "
+    ]
+  },
+  "STATS:Pocketwatch": {
+    "TEXT": [
+      "Карт взято: "
+    ]
+  },
+  "STATS:Tingsha": {
+    "TEXT": [
+      "Урона нанесенно: "
+    ]
+  },
+  "STATS:Tough Bandages": {
+    "TEXT": [
+      "Защиты полученно: "
+    ]
+  },
+  "STATS:VioletLotus": {
+    "TEXT": [
+      "Энергии полученно: "
+    ]
+  },
+  "STATS:TheAbacus": {
+    "TEXT": [
+      "Защиты полученно: "
+    ]
+  },
+  "STATS:Dead Branch": {
+    "TEXT": [
+      "Карт сгенерированно: "
+    ]
+  },
+  "STATS:Unceasing Top": {
+    "TEXT": [
+      "Карт взято: "
+    ]
+  },
+  "STATS:FrozenCore": {
+    "TEXT": [
+      "Сфер Льда заряженно: "
+    ]
+  },
+  "STATS:HoveringKite": {
+    "TEXT": [
+      "Энергии полученно: "
+    ]
+  },
+  "STATS:Runic Cube": {
+    "TEXT": [
+      "Карт взято: "
+    ]
+  },
+  "STATS:Strange Spoon": {
+    "TEXT": [
+      "Карт 'спасенно от сжигания': "
+    ]
+  },
+  "STATS:Nloth's Gift": {
+    "TEXT": [
+      "Редкиx карт изза реликвии полученно: "
+    ]
+  },
+  "STATS:Self Forming Clay": {
+    "TEXT": [
+      "Защиты полученно: "
+    ]
+  },
+  "STATS:Necronomicon": {
+    "TEXT": [
+      "Атак сыгранно дважды: "
+    ]
+  },
+  "STATS:Medical Kit": {
+    "TEXT": [
+      "Статусныx карт сожженно: "
+    ]
+  },
+  "STATS:Blue Candle": {
+    "TEXT": [
+      "Проклятий сожженно: "
+    ]
+  },
+  "STATS:Orichalcum": {
+    "TEXT": [
+      "Защиты полученно: "
+    ]
+  },
+  "STATS:Pen Nib": {
+    "TEXT": [
+      "Сколько раз был удвоен урон от атак: "
+    ]
+  },
+  "STATS:Smiling Mask": {
+    "TEXT": [
+      "Золота соxраненно: "
+    ]
+  },
+  "STATS:Gremlin Horn": {
+    "TEXT": [
+      "Карт взято: ",
+      " NL Энергии полученно: ",
+      " NL Карт за битву: ",
+      " NL Энергии за битву: "
+    ]
+  },
+  "STATS:InkBottle": {
+    "TEXT": [
+      "Карт взято: "
+    ]
+  },
+  "STATS:Bird Faced Urn": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:Champion Belt": {
+    "TEXT": [
+      "Слабости наложенно: "
+    ]
+  },
+  "STATS:Ginger": {
+    "TEXT": [
+      "Слабости предотващенно: "
+    ]
+  },
+  "STATS:Turnip": {
+    "TEXT": [
+      "Уязвимости предотващенно: "
+    ]
+  },
+  "STATS:Prayer Wheel": {
+    "TEXT": [
+      "Сколько раз был доп выбор карты: "
+    ]
+  },
+  "STATS:Inserter": {
+    "TEXT": [
+      "Слотов для сфер созданно: "
+    ]
+  },
+  "STATS:HandDrill": {
+    "TEXT": [
+      "Уязвимости наложенно спомощью этой реликвии: "
+    ]
+  },
+  "STATS:OrangePellets": {
+    "TEXT": [
+      "Дебаффов очищенно: "
+    ]
+  },
+  "STATS:WarpedTongs": {
+    "TEXT": [
+      "Карт улучшенно: "
+    ]
+  },
+  "STATS:Shovel": {
+    "TEXT": [
+      "Реликвий выкопанно: "
+    ]
+  },
+  "STATS:Centennial Puzzle": {
+    "TEXT": [
+      "Карт взято: "
+    ]
+  },
+  "STATS:Happy Flower": {
+    "TEXT": [
+      "Энергии полученно: "
+    ]
+  },
+  "STATS:Dream Catcher": {
+    "TEXT": [
+      "Сколько раз был доп выбор карты: "
+    ]
+  },
+  "STATS:Peace Pipe": {
+    "TEXT": [
+      "Карт удаленно: "
+    ]
+  },
+  "STATS:Lizard Tail": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:Question Card": {
+    "TEXT": [
+      "Карт которые вы дополнительно получили изза баффа релика: "
+    ]
+  },
+  "STATS:Tiny Chest": {
+    "TEXT": [
+      "Сундуков созданно: "
+    ]
+  },
+  "STATS:Busted Crown": {
+    "TEXT": [
+      "Карт которые вы пропустили изза дебаффа короны: "
+    ]
+  },
+  "STATS:Cursed Key": {
+    "TEXT": [
+      "Проклятий созданно: "
+    ]
+  },
+  "STATS:Chemical X": {
+    "TEXT": [
+      "Карт со стоимостью X сыгранно: "
+    ]
+  },
+  "STATS:Yang": {
+    "TEXT": [
+      "Временной Ловкости полученно: "
+    ]
+  },
+  "STATS:Cables": {
+    "TEXT": [
+      "Сфер активированно: ",
+      " NL Сфер Молний: ",
+      " NL Сфер Льда: ",
+      " NL Сфер Тьмы: ",
+      " NL Сфер Плазмы: "
+    ]
+  },
+  "STATS:Emotion Chip": {
+    "TEXT": [
+      "Сфер активированно: ",
+      " NL Сфер Молний: ",
+      " NL Сфер Льда: ",
+      " NL Сфер Тьмы: ",
+      " NL Сфер Плазмы: "
+    ]
+  },
+  "STATS:Melange": {
+    "TEXT": [
+      "Карт предсказанно: "
+    ]
+  },
+  "STATS:GoldenEye": {
+    "TEXT": [
+      "Доп Карт предсказанно: "
+    ]
+  },
+  "STATS:Regal Pillow": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:Lee's Waffle": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:Mummified Hand": {
+    "TEXT": [
+      "Энергии списанно с карт: "
+    ]
+  },
+  "STATS:Magic Flower": {
+    "TEXT": [
+      "XП вылеченно: "
+    ]
+  },
+  "STATS:Bronze Scales": {
+    "TEXT": [
+      "Урона нанесенно: "
+    ]
+  },
+  "STATS:Pandora's Box": {
+    "TEXT": [
+      "Карт полученно: ",
+      "Неизвестно"
+    ]
+  },
+  "STATS:Astrolabe": {
+    "TEXT": [
+      "Карт полученно: ",
+      "Неизвестно"
+    ]
+  },
+  "STATS:Whetstone": {
+    "TEXT": [
+      "Карт улучшенно: ",
+      "Неизвестно"
+    ]
+  },
+  "STATS:War Paint": {
+    "TEXT": [
+      "Карт улучшенно: ",
+      "Неизвестно"
+    ]
+  },
+  "STATS:Bag of Preparation": {
+    "TEXT": [
+      "Карт взято: "
+    ]
+  },
+  "STATS:Gambling Chip": {
+    "TEXT": [
+      "Карт взято: "
+    ]
+  },
+  "STATS:Ring of the Snake": {
+    "TEXT": [
+      "Карт взято: "
+    ]
+  }
+}
