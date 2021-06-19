@@ -1,4 +1,4 @@
-# RusTranslate.STSmod.RelicStats
+# TranslatedRus.SlayTheSpire.RelicStats
 
 Оригинальный мод https://steamcommunity.com/sharedfiles/filedetails/?id=2118491069
 
